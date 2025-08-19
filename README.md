@@ -71,9 +71,16 @@ The project uses five datasets provided in CSV format, with metadata included.
 
 ---
 
+## 📣 Acknowledgement
+
+This project is part of the Codebasics SQL Resume Project Challenge.
+Check out more details [here](https://codebasics.io/challenges/codebasics-resume-project-challenge/4).
+
+---
+
 ## 🤝 Contributions 
 Contributions, issues, and feature requests are welcome!
 
 If you find this project insightful, ⭐ star this repository to support my work.
 
----
+**Thank you for checking out my project!**

@@ -28,7 +28,7 @@ The project uses five datasets provided in CSV format, with metadata included.
 ## 📈 Key Insights & Recommendations  
 
 1. **Occupancy vs Pricing Strategy**  
-   - Occupancy % fluctuates week-on-week, while ADR (Average Daily Rate) remains flat.  
+   - **Occupancy %** fluctuates week-on-week, while **ADR** (Average Daily Rate) remains flat.  
    - This indicates a **static pricing strategy**.  
    - **Recommendation:** Implement **dynamic pricing**, especially for weekends & holiday seasons, to maximize revenue.  
 

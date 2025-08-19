@@ -1,4 +1,4 @@
-# 🏨 AtliQ Grands Revenue Insights – Power BI Project  
+# 🏨 AtliQ Grands Revenue Insights  
 
 Power BI dashboard providing revenue insights for AtliQ Grands (Hospitality Domain). The project analyzes hotel performance, occupancy, booking platforms, and pricing strategies to deliver actionable recommendations for revenue growth.  
 
@@ -21,7 +21,7 @@ The project uses five datasets provided in CSV format, with metadata included.
 4. **fact_aggregated_bookings** – Aggregated daily booking data with capacity and successful bookings.  
 5. **fact_bookings** – Detailed booking-level data including revenue, ratings, booking platform, and status. 
 
-👉 For detailed metadata, refer to: [meta_data_hospitality.txt](./meta_data_hospitality.txt)  
+👉 For detailed metadata, refer to: [meta_data_hospitality.txt](https://github.com/AnshumanB08/Power-BI-Revenue-Insights/blob/main/meta_data_hospitality.txt)  
 
 ---
 
@@ -49,7 +49,7 @@ The project uses five datasets provided in CSV format, with metadata included.
 
 ## 📊 Dashboard Preview  
 
-![Revenue Dashboard](./Dashboard%20screenshot.png)  
+![Revenue Dashboard](https://github.com/AnshumanB08/Power-BI-Revenue-Insights/blob/main/Dashboard%20screenshot.png)  
 
 🔗 **Live Dashboard Web View:**  
 [Click here to explore](https://app.powerbi.com/view?r=eyJrIjoiMzZkYTFiMjQtYTRjYS00MTY2LWI0YmMtYmNjZjJkZGQ5MGYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  

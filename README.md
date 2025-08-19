@@ -25,6 +25,15 @@ The project uses five datasets provided in CSV format, with metadata included.
 
 ---
 
+## 📊 Dashboard Preview  
+
+![Revenue Dashboard](https://github.com/AnshumanB08/Power-BI-Revenue-Insights/blob/main/Dashboard%20screenshot.png)  
+
+🔗 **Live Dashboard Web View:**  
+[Click here to explore](https://app.powerbi.com/view?r=eyJrIjoiMzZkYTFiMjQtYTRjYS00MTY2LWI0YmMtYmNjZjJkZGQ5MGYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+
+---
+
 ## 📈 Key Insights & Recommendations  
 
 1. **Occupancy vs Pricing Strategy**  
@@ -44,15 +53,6 @@ The project uses five datasets provided in CSV format, with metadata included.
 4. **Overall Conclusion**  
    - The **major issue** is ineffective **pricing strategy**.  
    - By adopting **dynamic & differential pricing** and **improving service quality**, AtliQ can regain **market share** and boost **revenue growth**.  
-
----
-
-## 📊 Dashboard Preview  
-
-![Revenue Dashboard](https://github.com/AnshumanB08/Power-BI-Revenue-Insights/blob/main/Dashboard%20screenshot.png)  
-
-🔗 **Live Dashboard Web View:**  
-[Click here to explore](https://app.powerbi.com/view?r=eyJrIjoiMzZkYTFiMjQtYTRjYS00MTY2LWI0YmMtYmNjZjJkZGQ5MGYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
 

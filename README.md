@@ -1,2 +1,80 @@
-# Power-BI-Revenue-Insights
-Power BI dashboard providing revenue insights for AtliQ Grands (Hospitality Domain). The project analyzes hotel performance, occupancy, booking platforms, and pricing strategies to deliver actionable recommendations for revenue growth.
+# 🏨 AtliQ Grands Revenue Insights – Power BI Project  
+
+> 📌 **Short Description:** Power BI dashboard providing revenue insights for AtliQ Grands (Hospitality Domain). The project analyzes hotel performance, occupancy, booking platforms, and pricing strategies to deliver actionable recommendations for revenue growth.  
+
+---
+
+## 📌 Problem Statement  
+AtliQ Grands owns multiple five-star hotels across India and has been in the hospitality industry for the past 20 years. However, due to strong competition and ineffective management decisions, AtliQ Grands has been losing its **market share and revenue** in the luxury/business hotel category.  
+
+To regain market share, the Managing Director of AtliQ Grands decided to incorporate **Business & Data Intelligence** into their strategy. Since they lacked an in-house analytics team, they outsourced the work to a third-party analytics provider to gain insights from their historical data.  
+
+This project provides a **Power BI dashboard** that delivers revenue insights to support strategic decision-making.  
+
+---
+
+## 📂 Dataset & Resources  
+The dataset contains hotel bookings and revenue data along with metadata.  
+Files used:  
+1. **dim_date** – Date dimension (dates, weeks, day types)  
+2. **dim_hotels** – Hotel information (property_id, category, city)  
+3. **dim_rooms** – Room type & class details  
+4. **fact_aggregated_bookings** – Aggregated booking data (capacity, successful bookings)  
+5. **fact_bookings** – Detailed booking transactions (guests, platform, status, revenue, ratings)  
+
+For detailed column-level metadata, refer to: [meta_data_hospitality.txt](./meta_data_hospitality.txt)  
+
+---
+
+## 📈 Key Insights & Recommendations  
+
+1. **Occupancy vs Pricing Strategy**  
+   - Occupancy % fluctuates week-on-week, while ADR (Average Daily Rate) remains flat.  
+   - This indicates a **static pricing strategy**.  
+   - **Recommendation:** Implement **dynamic pricing**, especially for weekends & holiday seasons, to maximize revenue.  
+
+2. **Low Occupancy & Ratings**  
+   - Hotels with **low occupancy** also show **low ratings** and **high cancellation %**.  
+   - **Recommendation:** Improve customer experience by addressing review feedback and improving service quality.  
+
+3. **Booking Platform Strategy**  
+   - AtliQ’s **own booking platforms** (online & offline) have ADRs that are not significantly different from third-party platforms.  
+   - Since they **don’t pay commission** on their own platforms, they can implement **promotional strategies** like **discount coupons, loyalty points, or cashback offers** to attract more direct bookings.  
+   - This will help increase **realized revenue** while reducing dependency on external platforms.  
+
+4. **Overall Conclusion**  
+   - The **major issue** is ineffective **pricing strategy**.  
+   - By adopting **dynamic & differential pricing** and **improving service quality**, AtliQ can regain **market share** and boost **revenue growth**.  
+
+---
+
+## 📊 Dashboard Preview  
+
+![Revenue Dashboard](./Dashboard%20screenshot.png)  
+
+🔗 **Live Dashboard Web View:**  
+[Click here to explore](https://app.powerbi.com/view?r=eyJrIjoiMzZkYTFiMjQtYTRjYS00MTY2LWI0YmMtYmNjZjJkZGQ5MGYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+
+---
+
+## 🛠 Tools & Technologies Used  
+- **Power BI** – Data visualization & dashboard creation
+- **Excel / CSV** – Data preparation 
+- **DAX** – Measures & calculations  
+
+---
+
+## 🚀 How to Use  
+1. Clone this repository.
+2. Open the .pbix file in Power BI Desktop.
+3. Connect datasets if needed (CSV files).
+4. Explore dashboard and insights.
+
+---
+
+## 🤝 Contributions 
+Contributions, issues, and feature requests are welcome!
+
+If you find this project insightful, ⭐ star this repository to support my work.
+
+---

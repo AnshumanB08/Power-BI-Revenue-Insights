@@ -14,15 +14,14 @@ This project provides a **Power BI dashboard** that delivers revenue insights to
 ---
 
 ## 📂 Dataset & Resources  
-The dataset contains hotel bookings and revenue data along with metadata.  
-Files used:  
-1. **dim_date** – Date dimension (dates, weeks, day types)  
-2. **dim_hotels** – Hotel information (property_id, category, city)  
-3. **dim_rooms** – Room type & class details  
-4. **fact_aggregated_bookings** – Aggregated booking data (capacity, successful bookings)  
-5. **fact_bookings** – Detailed booking transactions (guests, platform, status, revenue, ratings)  
+The project uses five datasets provided in CSV format, with metadata included.   
+1. **dim_date** – Calendar table with date, month, week, and day type.
+2. **dim_hotels** – Hotel details such as ID, name, category, and city.
+3. **dim_rooms** – Room details with categories (Standard, Elite, Premium, Presidential).  
+4. **fact_aggregated_bookings** – Aggregated daily booking data with capacity and successful bookings.  
+5. **fact_bookings** – Detailed booking-level data including revenue, ratings, booking platform, and status. 
 
-For detailed column-level metadata, refer to: [meta_data_hospitality.txt](./meta_data_hospitality.txt)  
+👉 For detailed metadata, refer to: [meta_data_hospitality.txt](./meta_data_hospitality.txt)  
 
 ---
 

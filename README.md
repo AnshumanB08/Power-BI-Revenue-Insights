@@ -36,7 +36,7 @@ The project uses five datasets provided in CSV format, with metadata included.
 
 ## 🧩 Data Model 
 
-![Data Model](https://github.com/AnshumanB08/Power-BI-Revenue-Insights/blob/main/Dashboard%20screenshot.png)  
+![Data Model](https://github.com/AnshumanB08/Power-BI-Revenue-Insights/blob/main/Data%20Model.png)  
 
 ---
 

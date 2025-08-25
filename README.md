@@ -34,6 +34,12 @@ The project uses five datasets provided in CSV format, with metadata included.
 
 ---
 
+## 🧩 Data Model 
+
+![Data Model](https://github.com/AnshumanB08/Power-BI-Revenue-Insights/blob/main/Dashboard%20screenshot.png)  
+
+---
+
 ## 📈 Key Insights & Recommendations  
 
 1. **Occupancy vs Pricing Strategy**  

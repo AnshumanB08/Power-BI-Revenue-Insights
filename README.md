@@ -36,6 +36,9 @@ The project uses five datasets provided in CSV format, with metadata included.
 
 ## 🧩 Data Model 
 
+The project follows a **snowflake schema** data model, which helps organize dimensions efficiently and maintain scalability.  
+This model connects **fact tables** (bookings, aggregated bookings) with **dimension tables** (date, hotels, rooms), allowing for flexible and detailed analysis across different perspectives.
+
 ![Data Model](https://github.com/AnshumanB08/Power-BI-Revenue-Insights/blob/main/Data%20Model.png)  
 
 ---
